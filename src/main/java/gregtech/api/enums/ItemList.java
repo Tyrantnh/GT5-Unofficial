@@ -1873,7 +1873,8 @@ public enum ItemList implements IItemContainer {
     Circuit_Chip_PIC,
     Circuit_Wafer_Simple_SoC,
     Circuit_Chip_Simple_SoC,
-
+    Circuit_Chip_Wetware_SoC,
+    
     Circuit_Wafer_HPIC,
     Circuit_Wafer_UHPIC,
     Circuit_Chip_HPIC,
